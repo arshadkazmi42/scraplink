@@ -1,0 +1,42 @@
+{
+  "name": "scraplink",
+  "version": "1.0.0",
+  "description": "Scralink library, for scraping links and assets url from a webpage",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/scraplink.git"
+  },
+  "keywords": [
+    "scraplink",
+    "library",
+    "crawler",
+    "website",
+    "links",
+    "links",
+    "images",
+    "img",
+    "image",
+    "url"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/scraplink/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/scraplink#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
+  }
+}
