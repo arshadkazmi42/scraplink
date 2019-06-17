@@ -1,7 +1,7 @@
 {
   "name": "scraplink",
   "version": "1.0.0",
-  "description": "Scralink library, for scraping links and assets url from a webpage",
+  "description": "Scraplink library, for scraping links and assets url from a webpage",
   "main": "index.js",
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
