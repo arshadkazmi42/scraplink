@@ -1,4 +1,6 @@
-# scraplink
+# scraplink 
+
+[![Build Status](https://travis-ci.com/arshadkazmi42/scraplink.svg?branch=master)](https://travis-ci.com/arshadkazmi42/scraplink)
 
 Scralink library, for scraping links and assets url from a webpage
 
@@ -59,14 +61,12 @@ const { Scrapper } = require('scraplink');
 - `ScrapperUtil`
 
   - `formatRelativeUrls`
-
     - Formats relative urls to absolute (takes rootUrl and array urls as input)
 
   - `removeEndingSlash`
-
     - Removes ending slash from the string (for this case from url)
+    
   - `removeStartingSlash`
-
     - Removes starting slash from the string (for this case from url)
 
 ## Contributing
