@@ -1,4 +1,6 @@
-# scraplink
+# scraplink 
+
+[![Build Status](https://travis-ci.com/arshadkazmi42/scraplink.svg?branch=master)](https://travis-ci.com/arshadkazmi42/scraplink)
 
 Scralink library, for scraping links and assets url from a webpage
 
