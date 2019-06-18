@@ -63,12 +63,6 @@ const { Scrapper } = require('scraplink');
   - `formatRelativeUrls`
     - Formats relative urls to absolute (takes rootUrl and array urls as input)
 
-  - `removeEndingSlash`
-    - Removes ending slash from the string (for this case from url)
-    
-  - `removeStartingSlash`
-    - Removes starting slash from the string (for this case from url)
-
 ## Contributing
 
 Interested in contributing to this project?
