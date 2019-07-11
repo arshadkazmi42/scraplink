@@ -22,7 +22,7 @@ const parseLinks = (rootUrl, data) => {
     rootUrl, Parse.assets(data)
   );
 
-  // Parsing linkts from a href tag and formatting relative url to absolute
+  // Parsing links from a href tag and formatting relative url to absolute
   const links = ScrapUtil.formatRelativeUrls(
     rootUrl, Parse.links(data)
   );
@@ -33,3 +33,4 @@ const parseLinks = (rootUrl, data) => {
 
 
 module.exports = scrap;
+
