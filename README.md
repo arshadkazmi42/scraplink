@@ -1,6 +1,13 @@
 # scraplink 
 
 [![Build Status](https://travis-ci.com/arshadkazmi42/scraplink.svg?branch=master)](https://travis-ci.com/arshadkazmi42/scraplink)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/scraplink.svg)](https://github.com/arshadkazmi42/scraplink)
+[![LICENSE](https://img.shields.io/npm/l/scraplink.svg)](https://github.com/arshadkazmi42/scraplink/blob/master/LICENSE)
+[![NPM Downloads](https://img.shields.io/npm/dt/scraplink.svg)](https://www.npmjs.com/package/scraplink)
+[![NPM Version](https://img.shields.io/npm/v/scraplink.svg)](https://www.npmjs.com/package/scraplink)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/scraplink.svg)](https://github.com/arshadkazmi42/scraplink/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/scraplink.svg)](https://github.com/arshadkazmi42/scraplink/commits/master)
+
 
 Scralink library, for scraping links and assets url from a webpage
 
