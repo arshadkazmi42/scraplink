@@ -42,5 +42,9 @@
     "mocha": "^6.2.1",
     "eslint": "^6.5.1",
     "eslint-config-strongloop": "^2.1.0"
-  }
+  },
+  "files":[
+    "index.js",
+    "lib/"
+  ]
 }
