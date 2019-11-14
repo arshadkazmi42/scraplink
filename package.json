@@ -35,7 +35,8 @@
     "remove-leading-slash": "^1.0.1",
     "remove-trailing-slash": "^0.1.0",
     "search-a-tags": "^1.0.1",
-    "search-img-tags": "^1.0.0"
+    "search-img-tags": "^1.0.0",
+    "yarn": "^1.19.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
@@ -43,7 +44,7 @@
     "eslint": "^6.5.1",
     "eslint-config-strongloop": "^2.1.0"
   },
-  "files":[
+  "files": [
     "index.js",
     "lib/"
   ]
