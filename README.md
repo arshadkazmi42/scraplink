@@ -83,6 +83,4 @@ Thank you to all the contributors who have helped us in making this project bett
 
 <a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a>
 <a href="https://github.com/brantem"><img src="https://github.com/brantem.png" width="30" /></a>
-<a href="https://github.com/dependabot[bot]"><img src="https://github.com/dependabot[bot].png" width="30" /></a>
-<a href="https://github.com/mariumfirdous"><img src="https://github.com/mariumfirdous.png" width="30" /></a>
-<a href="https://github.com/shaekhjamal"><img src="https://github.com/shaekhjamal.png" width="30" /></a>
+
