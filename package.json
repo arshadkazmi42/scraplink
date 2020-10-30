@@ -1,6 +1,6 @@
 {
   "name": "scraplink",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Scraplink library, for scraping links and assets url from a webpage",
   "main": "index.js",
   "scripts": {
