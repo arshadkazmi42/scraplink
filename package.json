@@ -39,9 +39,9 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.1",
     "eslint": "^6.5.1",
-    "eslint-config-strongloop": "^2.1.0"
+    "eslint-config-strongloop": "^2.1.0",
+    "mocha": "^6.2.1"
   },
   "files": [
     "index.js",
